@@ -1,0 +1,13 @@
+.collabignore
+
+.idea/
+Assembly-CSharp.csproj
+
+Library/
+Logs/
+
+
+Temp/
+UserSettings/
+Work_With_Physics.sln
+
